@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "reactive-form-temp-angular"
+  "defaultProject": "reactive-form-temp-angular",
+  "cli": {
+    "analytics": false
+  }
 }
